@@ -1,2 +1,2 @@
 # CottageHospitalSystem-in-Java
-A small hospital system with options to add wards and patients.
+A small hospital app with options to add wards and patients.
